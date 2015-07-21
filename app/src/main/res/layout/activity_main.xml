@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="40dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/id_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/title_name"
+        android:textColor="#000"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/id_status_download"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/id_title"
+        android:layout_marginTop="20dp"
+        android:text="Status from code"
+        android:textSize="25sp" />
+
+    <ProgressBar
+        android:id="@+id/id_progress_bar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/id_status_download"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="20dp"
+        android:progressDrawable="@drawable/progressbar_color" />
+
+    <ImageView
+        android:id="@+id/id_download_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/id_delete_button"
+        android:layout_below="@+id/id_progress_bar"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/id_delete_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/id_download_button"
+        android:text="Delete Picture" />
+
+    <Button
+        android:id="@+id/id_download_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Download" />
+
+
+</RelativeLayout>

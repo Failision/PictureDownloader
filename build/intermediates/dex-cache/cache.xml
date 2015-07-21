@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mercury\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\mercury\Documents\PictureDownloader\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-ad871d60ee8daaf84bba9787f87d3e840dac43e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\mercury\PictureDownloader\PictureDownloader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\mercury\PictureDownloader\PictureDownloader\app\build\intermediates\pre-dexed\debug\classes-2891076528f1a83ef15923f947923830b1dd8621.jar" />
+    </item>
+    <item
+        jar="C:\Users\mercury\PictureDownloader\PictureDownloader\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\mercury\PictureDownloader\PictureDownloader\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-caf694fbdd56e425bb9a85dc38f4bdaf547fb8a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\mercury\Documents\PictureDownloader\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\mercury\Documents\PictureDownloader\app\build\intermediates\pre-dexed\debug\classes-934184209bae1ffbf1776a434016deb1ca22ed96.jar" />
+    </item>
+    <item
+        jar="C:\Users\mercury\Documents\PD 3.1\PictureDownloader\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\mercury\Documents\PD 3.1\PictureDownloader\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-c92ccc8afefe0699d4dd6e422751410072b8f2f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\mercury\PictureDownloader\PictureDownloader\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\mercury\PictureDownloader\PictureDownloader\app\build\intermediates\pre-dexed\debug\classes-55dc720a9e88c799543d5bec0b590d27c92ac9c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\mercury\Documents\PictureDownloader\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\mercury\Documents\PictureDownloader\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-9d340bbd2754cf9b98f3ae3b69d359053dc0b7c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\mercury\Documents\PD 3.1\PictureDownloader\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\mercury\Documents\PD 3.1\PictureDownloader\app\build\intermediates\pre-dexed\debug\classes-ab346b95c3282e154e752c3c1e58da0fdf3692e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\mercury\Documents\PictureDownloader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\mercury\Documents\PictureDownloader\app\build\intermediates\pre-dexed\debug\classes-181d2596e1f2e3f003dfbd83474f19c5e053142f.jar" />
+    </item>
+    <item
+        jar="C:\Users\mercury\Documents\PD 3.1\PictureDownloader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\mercury\Documents\PD 3.1\PictureDownloader\app\build\intermediates\pre-dexed\debug\classes-c655b78eeb83f521b12a3b3e681b5d40816e8bd7.jar" />
+    </item>
+
+</items>

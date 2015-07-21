@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PictureDownloader</string>
+    <string name="title_name">Picture Downloader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_status_idle">Status: Idle</string>
+    <string name="string_status_downloading">Status: Downloading</string>
+    <string name="string_status_downloaded">Status: Downloaded</string>
+    <string name="url1">http://wpapers.ru/wallpapers/Architecture/All-Architecture/6605/PREV_%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%94%D0%BE%D0%BC.jpg</string>
+    <string name="url">http://dcdn.artquid.com/art/5/251/391939.371652618.1.o1662984273.jpg</string>
+
+</resources>
